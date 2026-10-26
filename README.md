@@ -1,7 +1,6 @@
 # PackWise AI
 
 ### AI-Based Intelligent Food Packaging Material Recommendation System
-*Smart India Hackathon (SIH 2026) Production Architecture Baseline*
 
 ---
 

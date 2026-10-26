@@ -24,7 +24,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
-    description="AI-Based Intelligent Food Packaging Material Recommendation System (SIH 2026 Production Baseline)",
+    description="AI-Based Intelligent Food Packaging Material Recommendation System ",
     version=settings.VERSION,
     docs_url=f"{settings.API_PREFIX}/docs",
     redoc_url=f"{settings.API_PREFIX}/redoc",
